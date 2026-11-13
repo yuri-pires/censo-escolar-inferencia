@@ -1,0 +1,12 @@
+{
+  "fonte": "INEP — Microdados do Censo Escolar da Educação Básica 2024",
+  "n_linhas_arquivo_original": 215545,
+  "n_colunas_arquivo_original": 426,
+  "N_populacao": 178997,
+  "n_amostra": 384,
+  "confianca": 0.95,
+  "margem_erro": 0.05,
+  "p_dimensionamento": 0.5,
+  "seed": 20241,
+  "filtro": "TP_SITUACAO_FUNCIONAMENTO == 1 e QT_MAT_BAS, QT_DOC_BAS, QT_TUR_BAS preenchidos"
+}
